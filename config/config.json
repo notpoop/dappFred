@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9F6Ed83334585A5cE4fa46EC7978b953014Ff64f",
+  "SCAN_LINK": "https://etherscan.io/address/0x9f6ed83334585a5ce4fa46ec7978b953014ff64f#readContract",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Pooping with Fred",
+  "SYMBOL": "FredPoop",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pooping-with-fred",
+  "SHOW_BACKGROUND": true
+}
